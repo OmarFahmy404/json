@@ -1,0 +1,37 @@
+{
+  "admistrator":[
+    {"id":1,
+     "name":"mohamed"
+  }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "postman",
+      "description": "full course of postman"
+    },
+    {
+      "id": 2,
+      "name": "newman",
+      "description": "full course of newman"
+    },
+    {
+      "id": 3,
+      "name": "selenuim webdriver",
+      "description": "full course of selenuim webdriver"
+    },
+    {
+      "name": "jenkisn",
+      "description": "full course of jenkisn",
+      "id": 4
+    }
+  ],
+  "students": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$sqTot7tTVQPv6tE2v3yeNeU8An/9v2vXn.SaqdNW6IQTfK7KjoUYq",
+      "id": 1
+    }
+   
+  ]
+}
